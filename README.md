@@ -4,4 +4,4 @@ You will need to build the app before launching it
 -> then run the executable
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![](https://github.com/rhomari/ConsoleWithColors_Win32API/blob/master/CGO%20consolewithcolors.PNG)
